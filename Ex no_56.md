@@ -4,7 +4,7 @@
 To write a C function to display stack elements using Linked List.
 
 ## Algorithm
-1. 
+1. 4
 2. 
 3. 
 4.  
